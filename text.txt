@@ -4,3 +4,4 @@ String Three
 String Four
 Srting Five
 String Six for deleting after commit
+Add the first commit to branch1
