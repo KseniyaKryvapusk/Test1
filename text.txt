@@ -4,3 +4,4 @@ String Three
 String Four
 Srting Five
 String Six for deleting after commit
+String for push
